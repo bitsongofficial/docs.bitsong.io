@@ -6,7 +6,7 @@
 
 BitSong is based on the Tendermint consensus engine. A set of Validators is responsible for adding new blocks of transactions to the BitSong blockchain, for which they receive rewards in BTSG tokens.&#x20;
 
-Upon joining the network, a Validator agrees to bond BTSG tokens. The BTSG can be their own, or the Validator can have BTSG delegated or staked to them by other BTSG holders. There are currently 64 Validator slots on the BitSong network.&#x20;
+Upon joining the network, a Validator agrees to bond BTSG tokens. The BTSG can be their own, or the Validator can have BTSG delegated or staked to them by other BTSG holders. There are currently 100 Validator slots on the BitSong network.&#x20;
 
 Therefore, the top 64 Validator candidates with the most bonded BTSG are selected at each block to participate in the next round of block production. Their likelihood of being able to produce the next block is weighted according to the amount of their bonded BTSG.&#x20;
 
