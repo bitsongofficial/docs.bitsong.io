@@ -20,6 +20,8 @@ bitsongd tx staking create-validator \
     --commission-rate="0.10" \
     --commission-max-rate="0.20" \
     --commission-max-change-rate="0.01" \
+    --gas="auto" \
+    --gas-prices="0.1ubtsg"
     --min-self-delegation="1"
 ```
 
@@ -40,5 +42,5 @@ You are looking for the `bech32` encoded `address` in the `~/.bitsongd/config/pr
 {% hint style="info" %}
 Note:
 
-Only the top **64** validators in voting power are included in the active validator set.
+Only the top **100** validators in voting power are included in the active validator set.
 {% endhint %}
