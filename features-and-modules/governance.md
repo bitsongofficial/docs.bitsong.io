@@ -10,7 +10,7 @@ In 2014, Daniel Larimer developed the Delegated Proof of Stake (DPoS) mechanism 
 
 BitSong DPoS allows users to commit their balances as votes, which are used to elect a fixed number of delegates to validate incoming transactions on the blockchain. As such, validators manage blockchain operations on behalf of their delegators, guaranteeing security and consensus.
 
-The DPoS model tends to reduce latency and increase the performance of a network, meaning it can process more transactions per second. This is mainly due to the fact that it allows consensus to be reached with a lower number of validating nodes. Currently, there are 64 validators on the BitSong mainnet.
+The DPoS model tends to reduce latency and increase the performance of a network, meaning it can process more transactions per second. This is mainly due to the fact that it allows consensus to be reached with a lower number of validating nodes. Currently, there are 100 validators on the BitSong mainnet.
 
 [Visit the BitSong mainnet explorer.](https://explorebitsong.com)
 
@@ -22,9 +22,9 @@ The BitSong Network relies on a set of validators that are responsible for commi
 
 Validator candidates can bond their own BTSG and have BTSG delegated or staked to them by BTSG token holders.
 
-The BitSong Network currently has slots for 64 validators, but over time this will increase to 100 validators, subject to a governance vote. Validators are selected according to the total amount of bonded BTSG – whether the BTSG is staked from the validators own wallet, or delegated to them by delegators.
+The BitSong Network currently has slots for 100 validators, but over time this will increase to 100 validators, subject to a governance vote. Validators are selected according to the total amount of bonded BTSG – whether the BTSG is staked from the validators own wallet, or delegated to them by delegators.
 
-The top 64 validator candidates with the most stake will become BitSong Network validators. At every block, a validator is chosen to sign that block, based on their voting power (determined by the amount of bonded tokens) at the time of the block. Validators with higher voting power will sign blocks more often than validators with lower voting power.
+The top 100 validator candidates with the most stake will become BitSong Network validators. At every block, a validator is chosen to sign that block, based on their voting power (determined by the amount of bonded tokens) at the time of the block. Validators with higher voting power will sign blocks more often than validators with lower voting power.
 
 Validators and their delegators will earn BTSG as block provisions and tokens as transaction fees through execution of the Tendermint consensus protocol. Initially, transaction fees will be paid in BTSG. Note that validators can set commission on the fees their delegators receive as additional incentive. Choosing the right commission level is a balance, as the validator must be able to remain competitive enough to attract delegators to stake their BTSG.
 

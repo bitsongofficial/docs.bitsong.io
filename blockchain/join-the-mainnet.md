@@ -61,7 +61,7 @@ Now we have to syncronise the node with the current state of the blockchain. The
 ```
 # Thanks to qf3l3k for creating and testing these commands
 
-sudo systemctl stop bitsong && bitsongd unsafe-reset-all
+sudo systemctl stop bitsongd && bitsongd unsafe-reset-all
 
 SNAP_RPC="https://rpc.bitsong.forbole.com:443"
 SNAP_RPC2="https://bitsong.stakesystems.io:2053"
@@ -80,9 +80,9 @@ s|^(trust_height[[:space:]]+=[[:space:]]+).*$|\1$BLOCK_HEIGHT| ; \
 s|^(trust_hash[[:space:]]+=[[:space:]]+).*$|\1\"$TRUST_HASH\"| ; \
 s|^(seeds[[:space:]]+=[[:space:]]+).*$|\1\"\"|" $HOME/.bitsongd/config/config.toml
 
-sudo systemctl restart bitsong
+sudo systemctl restart bitsongd
 
-sudo journalctl -u bitsong -f
+sudo journalctl -u bitsongd -f
 ```
 
 ### Enable the REST API <a href="#enable-the-rest-api" id="enable-the-rest-api"></a>
