@@ -10,7 +10,7 @@ coverY: 0
 
 1. Make sure you have installed the **Keplr** browser extension. If you don't already have it, then you can download the extension and install it from [**here**](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)**.**
 
-![](../.gitbook/assets/Cattura.PNG)
+![](<../.gitbook/assets/Cattura (1).PNG>)
 
 **2**. Once you have your Keplr extension installed, open it. In the new window that opens, select "_Create a new wallet_."
 
@@ -28,19 +28,19 @@ So name your wallet, set a password, and proceed.
 
 **4**. You have now your brand-new Cosmos Wallet ready to use!
 
-![](<../.gitbook/assets/Group 326.png>)
+![](<../.gitbook/assets/Group 326 (1).png>)
 
 **5**. Now let's get your new BitSong Wallet address. Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
 
-![](<../.gitbook/assets/Group 323 (1).png>)
+![](<../.gitbook/assets/Screenshot 2022-04-26 at 20.38.53.png>)
 
 **6**. Wallet.bitsong will then execute Keplr and will ask you to **add and connect the bitsong-2b** chain. You must approve both actions by signing them with Keplr.
 
-![](<../.gitbook/assets/Group 325.png>)
+![](<../.gitbook/assets/Group 490.png>)
 
-**7**. Congratulations, you just created your new BitSong Wallet! You can see the new wallet address on the top left under the BitSong logo.
+**7**. Congratulations, you just created your new BitSong Wallet! You can see the new wallet address on lower left.
 
-![](<../.gitbook/assets/Group 328.png>)
+![](<../.gitbook/assets/Group 491.png>)
 
 **8**. Open the Keplr extension and from the list of available chains, scroll down until you find "_**BitSong Mainnet**_" and select it.
 
@@ -48,7 +48,21 @@ So name your wallet, set a password, and proceed.
 
 **9**. Make sure that the BitSong wallet address shown in Keplr is the same as the one shown in wallet.bitsong.io.
 
-![](<../.gitbook/assets/Group 333.png>)
+![](<../.gitbook/assets/Group 492.png>)
+
+**10.** To create a new _testnet_ wallet , go to [https://wallet.testnet.bitsong.io/](https://wallet.testnet.bitsong.io)
+
+**11.**  As you did to create your BitSong wallet, click on " _Keplr browser extension_"
+
+![](<../.gitbook/assets/Group 494 (1).png>)
+
+**12.** Wallet.bitsong will then execute Keplr and will ask you to **add and connect the bitsong testnet** chain. You must approve by signing them with Keplr.
+
+![](<../.gitbook/assets/Group 493 (1).png>)
+
+**13. Y**ou have successfully configured your _testnet_ wallet. Remember that the address of the testnet wallet is the same as the _mainnet_ wallet.
+
+![](<../.gitbook/assets/Group 496.png>)
 
 Your are now all set! Your BitSong wallet is ready to interact with the BitSong Blockchain.
 

@@ -8,7 +8,7 @@ description: >-
 
 **1.** Make sure you have installed the **Keplr** browser extension. If you don't already have it, then you can download the extension and install it from [**here**](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)**.**
 
-![](../.gitbook/assets/Cattura.PNG)
+![](<../.gitbook/assets/Cattura (1).PNG>)
 
 **2.** Once you have your Keplr extension installed, open it. In the new window that opens, select "_Import existing account_."
 
@@ -20,11 +20,11 @@ description: >-
 
 **4.** You have now your Cosmos Wallet ready to use!
 
-![](<../.gitbook/assets/Group 326 (1).png>)
+![](<../.gitbook/assets/Group 326.png>)
 
 **5.** Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
 
-![](<../.gitbook/assets/Group 323.png>)
+![](<../.gitbook/assets/Group 323 (1).png>)
 
 **6.** Wallet.bitsong will then execute Keplr and will prompt you to **add and connect the bitsong-2b** chain. You must approve both actions by signing them with Keplr.
 
@@ -36,7 +36,7 @@ description: >-
 
 **8.** Congratulations, you have just imported your BitSong Wallet! You can see the new wallet address on the top left under the BitSong logo.
 
-![](<../.gitbook/assets/Group 328 (1).png>)
+![](<../.gitbook/assets/Group 328.png>)
 
 **9.** Make sure that the BitSong wallet address shown in Keplr is the same as the one shown wallet.bitsong.io.
 
