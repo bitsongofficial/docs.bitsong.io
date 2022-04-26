@@ -24,20 +24,20 @@ description: >-
 
 **5.** Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
 
-![](<../.gitbook/assets/Group 323 (1).png>)
+![](<../.gitbook/assets/Screenshot 2022-04-26 at 20.38.53.png>)
 
 **6.** Wallet.bitsong will then execute Keplr and will prompt you to **add and connect the bitsong-2b** chain. You must approve both actions by signing them with Keplr.
 
-![](<../.gitbook/assets/Group 337.png>)
+![](<../.gitbook/assets/Group 490.png>)
 
 **7**. Open the Keplr extension. and from the list of available chains, scroll down until you find "_**BitSong Mainnet**_" and select it.
 
 ![](<../.gitbook/assets/Group 327.png>)
 
-**8.** Congratulations, you have just imported your BitSong Wallet! You can see the new wallet address on the top left under the BitSong logo.
+**8.** Congratulations, you have just imported your BitSong Wallet! You can see the wallet address below on the left page.
 
-![](<../.gitbook/assets/Group 328.png>)
+![](<../.gitbook/assets/Group 491.png>)
 
 **9.** Make sure that the BitSong wallet address shown in Keplr is the same as the one shown wallet.bitsong.io.
 
-![](<../.gitbook/assets/Group 333.png>)
+![](<../.gitbook/assets/Group 492.png>)
