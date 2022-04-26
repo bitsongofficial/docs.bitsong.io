@@ -34,7 +34,7 @@ description: >-
 
 ![](<../.gitbook/assets/Group 327.png>)
 
-**8.** Congratulations, you have just imported your BitSong Wallet! You can see the wallet address below on the left page.
+**8.** Congratulations, you have just imported your BitSong Wallet! You can see the wallet address on lower left of the page.
 
 ![](<../.gitbook/assets/Group 491.png>)
 
