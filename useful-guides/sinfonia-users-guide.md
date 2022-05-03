@@ -1,10 +1,13 @@
 ---
-description: In this guide you will find Sifonia’s main features and how to use them.
+description: >-
+  BitSong is thrilled to formally announce the launch of our Fan Token Platform
+  “Sinfonia”, along with an exquisite new web page and a sneak peek of the
+  features and user interface!
 ---
 
 # Sinfonia User's Guide
 
-
+In this guide you will find Sifonia’s main features and how to use them:
 
 Go to the website and log in with your wallet, if you don't have a wallet, see [our guide](how-to-create-a-bitsong-wallet.md).
 
@@ -14,7 +17,7 @@ On the **Dex** page you will see the fan tokens present on Sinfonia, the price a
 
 ![](https://lh6.googleusercontent.com/RnXyA0FlacXPN4ih4SGVXkdPbR-B1ibXGC0mB\_cs0a1Eg9xhjxkyblIhNVXErJjIeppa25qKTIJTSNxz9-E\_zLv8xmJRLH972KPgUF8EKwyTeYGDfh3geCwMf7zz-8TW05saq13p)
 
-To have an overview of your assets, make transactions and start using Sinfonia, go to the **Assets Page.**
+To have an overview of your assets, make transactions and start using Sinfonia, go to the **Assets Page**.
 
 ![](https://lh3.googleusercontent.com/vm2xqNqZTjiAlFk0AbTo\_oo0Dd045amEGkxlhsTId4DSkAOCGJZzo08TmqfhAN8b80fyWqX7i20IYzVFLCtjkhm8dF2Zxx9p66xC5kGVctar8TCqyCaeUDTrRXDhour\_U46oxYDr)
 
@@ -26,7 +29,7 @@ Now click on the two arrows as shown in the image.
 
 ![](https://lh5.googleusercontent.com/oajA2nSbGnRdTgMxrbv2hCt4C3bcTByYvPJa-7TYUGH4J-Qq2fBLr0U1TUO0Q914hTRGO6HMJDspRYieiBwFAE5cm-Mte0r\_CavsTeb48LwJQVTrlNWDc0Eg8mYbSXlwco4zraDI)
 
-Transfer your assent from the BitSong Chain to the Osmosis Chain.
+Now you can transfer your assets from the BitSong Chain to the Osmosis Chain.
 
 ![](https://lh3.googleusercontent.com/iuXnGd629xlN8gHbYDEAyM36rUaN3s1MIf2JTUvHQ9U0LrzKvHWIV6jwbByfNV3TZRMGOiUhFrVWuNTrHB0VcPzfOHGByiiGZwL1mQJqrf60f-GSkbqzXoInD5F7w1vTnPD4ah8R)
 
@@ -40,15 +43,17 @@ Click on the **Pool** you prefer to view the details.
 
 ![](https://lh3.googleusercontent.com/UYxir6c5iz\_MyersbtnCAu4SrQ5v9lwN4Oj7NDJ4oiEixXmTy6hc7Ni1YULMAH1Er3htneEWWTDB7YtXJQjua2\_VLiNstu0xwQgh3ZnFXwRZfVGFopAQFMDvWQMRxmjFy76XBNWZ)
 
-On the Sinfonia Pools, like on the Osmosis Pools, you can Provide Liquidity and earn Rewards.
 
-On this page you can see:\
-\
-\- The Pool composition; \
-\- The Liquidity on the the Pool; \
-\- The Bonded tokens; \
-\- APRs and unbonding time; \
-\- Add/Remove Liquidity to the Pool.
+
+On the Sinfonia Pools, like on the Osmosis Pools, you can Provide Liquidity and earn Rewards.&#x20;
+
+On this page you can see:&#x20;
+
+* The Pool composition;&#x20;
+* The Liquidity on the the Pool;
+* The Bonded tokens;
+* APRs and unbonding time;
+* Add/Remove Liquidity to the Pool.
 
 
 
@@ -64,9 +69,9 @@ Select the amount of tokens you want to Provide to the Pool. Remember to match t
 
 ![](https://lh4.googleusercontent.com/MAlBNSqsmonLwRnEU5q5cvDSEmU45EU17yUaQ2FpoGwRj3PYrixe5sC7oZJNMRb5Gu5MMBqoUxz-80CPd5Xs7lvgA3o7WWoSB7rFc7rwNlGqtizJXUP6PUZzeV-NrUkRtornHHtw)
 
-Now click on Add Liquidity and confirm the transaction on Keplr
+Now click on **Add Liquidity** and confirm the transaction on Keplr. To start **Earning Liquidity**, now you have to Bond your LP tokens. On the voice “Available LP Tokens” now you can view the amount of tokens that you’ve decided to Add in the Pool
 
-To _start Earning Liquidity_, now you have to Bond your LP tokens. On the voice “Available LP Tokens” now you can view the amount of tokens that you’ve decided to Add in the Pool.\
+\
 Click **on Start Earning**
 
 ![](https://lh4.googleusercontent.com/dfoJH\_suvon0kj0n8FHV58kqYCD0AM-BbC4m2ci2kwGxmUS6vkhyRzxZ4jYCFOj\_RTLcdvQWJsJ5uuuGm36BWja-vh6dpZp9uGeS7pedb7zNL6OBkc5F2ITxiJeIFkgKREmq7ynI)
@@ -77,6 +82,6 @@ Click on “**Max**” to Bond all your LP tokens and then Bond Tokens
 
 ![](https://lh4.googleusercontent.com/hju0g9AFtWrhFn\_XjKURacYCk7ry0Qv0d3XdE9mIwXwhrKL9ROW\_pPFLADg8FYBdNmnxclFdq93MWNXbXfyx3McFOj7JjadoNnc8puW6kJVcd6i2AoXp9h13ViMI3sSrAztyck0Z)
 
-You have correctly bonded your Assets and you are earning daily rewards. To view the amount of the Liquidity you have provided in the Pool, click on the Pool and consult the index “My Liquidity”
+You have correctly bonded your Assets and you are earning daily rewards. To view the amount of the Liquidity you have provided in the Pool, click on the Pool and consult the index “_My Liquidity”_
 
 ![](https://lh3.googleusercontent.com/jjQIercQ4N\_Y-CdZjZLVgo2qLH3HNw4qoKmQ5pXc11lq7S3JmDmoy9V1irI21nEv1io1D9UO4mr6wWqqQKFPvAVmCAif4ESzANWsoKUcwbvRqlmFrtfpBLyzXdxO4e16ZgOMvUvU)
