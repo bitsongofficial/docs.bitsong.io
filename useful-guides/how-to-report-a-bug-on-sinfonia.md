@@ -16,7 +16,7 @@
 
 ![](<../.gitbook/assets/Screenshot 2022-05-08 at 18.09.18.png>)
 
-5 - Now you can Report a Bug, click on **Issue.**&#x20;
+5 - Now you can Report a Bug, click on **Issue.**  Before proceeding, make sure the Bug has not already been reported.
 
 ![](<../.gitbook/assets/Screenshot 2022-05-08 at 18.51.25.png>)
 
