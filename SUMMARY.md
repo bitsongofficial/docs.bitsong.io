@@ -28,6 +28,7 @@
 * [Verify Mainnet](blockchain/verify-mainnet.md)
 * [Upgrades](blockchain/upgrades/README.md)
   * [From v0.8.0 to v0.10.0](blockchain/upgrades/from-v0.8.0-to-v0.10.0.md)
+  * [From v0.10.0 to v0.11.0](blockchain/upgrades/from-v0.10.0-to-v0.11.0.md)
 
 ## Features and Modules
 
