@@ -12,7 +12,7 @@ BitSong DPoS allows users to commit their balances as votes, which are used to e
 
 The DPoS model tends to reduce latency and increase the performance of a network, meaning it can process more transactions per second. This is mainly due to the fact that it allows consensus to be reached with a lower number of validating nodes. Currently, there are 64 validators on the BitSong mainnet.
 
-[Visit the BitSong mainnet explorer.](https://explorebitsong.com)
+[Visit the BitSong mainnet explorer.](https://explorebitsong.com/)
 
 Changes to the BitSong network and its rules are subject to governance votes. Examples of decisions that may be put to a governance vote include mainnet upgrades, changes to voting periods, changes to the size of the validator set, or allocation of Community Pool funds.
 
