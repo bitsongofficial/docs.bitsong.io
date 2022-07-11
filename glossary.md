@@ -56,13 +56,13 @@
 
 **Inflation** - A general increase in prices and fall in the purchasing value of money.
 
-**InterPlanetary File System (IPFS) -** A decentralized file storage and referencing system for the Ethereum blockchain. [IFPS](https://ipfs.io/) is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.
+**InterPlanetary File System (IPFS) -** A decentralized file storage and referencing system for the Ethereum blockchain. [IFPS](https://ipfs.io) is an open source protocol that enables storing and sharing hypermedia (text, audio, visual) in a distributed manner without relying on a single point of failure. This distributed file system enables applications to run faster, safer and more transparently.
 
 [Keplr](btsg/wallets.md#keplr) - a BTSG-compatible wallet, also compatible with other IBC-enabled blockchains in the Cosmos ecosystem
 
 **Ledger** - An hardware wallet to secure, store and manage your crypto assets.
 
-[Liquidity Module](broken-reference) - enables liquidity for Fan Tokens and NFTs in the BitSong Marketplace
+[Liquidity Module](features-and-modules/liquidity.md) - enables liquidity for Fan Tokens and NFTs in the BitSong Marketplace
 
 [Liquidity provider](btsg/liquidity-provider.md) - someone who provides liquidity to a token pool on a decentralized exchange
 

@@ -24,6 +24,6 @@ Visit the [Metamask download page](https://metamask.io/download) to set up the r
 
 Trust Wallet is a software wallet for the Ethereum and Binance blockchain ecosystems, supporting ERC20 and BEP20 tokens. You can use Trust Wallet to store, send, or receive ERC20 BTSG tokens.
 
-[Find out more about Trust Wallet.](https://trustwallet.com/)
+[Find out more about Trust Wallet.](https://trustwallet.com)
 
 Please note that you cannot stake ERC20 BTSG tokens on the BitSong mainnet.

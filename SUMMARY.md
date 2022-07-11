@@ -33,6 +33,7 @@
 ## Features and Modules
 
 * [Fan Tokens](features-and-modules/fan-tokens.md)
+* [Merkledrop](features-and-modules/merkledrop.md)
 * [NFTs](features-and-modules/nfts.md)
 * [Marketplace](features-and-modules/marketplace.md)
 * [IBC](features-and-modules/ibc.md)

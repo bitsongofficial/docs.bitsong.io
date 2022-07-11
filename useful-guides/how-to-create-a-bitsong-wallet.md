@@ -30,7 +30,7 @@ So name your wallet, set a password, and proceed.
 
 ![](<../.gitbook/assets/Group 326 (1).png>)
 
-**5**. Now let's get your new BitSong Wallet address. Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io/) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
+**5**. Now let's get your new BitSong Wallet address. Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-04-26 at 20.38.53.png>)
 
@@ -50,7 +50,7 @@ So name your wallet, set a password, and proceed.
 
 ![](<../.gitbook/assets/Group 492.png>)
 
-**10.** To create a new _testnet_ wallet , go to [https://wallet.testnet.bitsong.io/](https://wallet.testnet.bitsong.io/)
+**10.** To create a new _testnet_ wallet , go to [https://wallet.testnet.bitsong.io/](https://wallet.testnet.bitsong.io)
 
 **11.**  As you did to create your BitSong wallet, click on " _Keplr browser extension_"
 

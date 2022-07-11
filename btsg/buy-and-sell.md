@@ -30,6 +30,6 @@ These instructions are for mainnet-BTSG tokens.
 
 To swap BTSG on Emeris you’ll need to have installed the Keplr wallet.
 
-Go to the [Emeris app page](https://app.emeris.com/) and connect your Keplr wallet. You will now be able to see your available assets on the Emeris page.
+Go to the [Emeris app page](https://app.emeris.com) and connect your Keplr wallet. You will now be able to see your available assets on the Emeris page.
 
 Navigate to the “Swap” section on the top right-hand corner of the Emeris Portfolio page and select the token pair you wish to swap. Click “Review” and you’ll go to a preview window. Review the details of your swap to make sure they’re correct, and then select “Confirm and Continue.” You’ll be prompted by Keplr to approve the transaction, and after that you can select “Done” to finish.

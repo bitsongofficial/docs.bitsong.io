@@ -45,7 +45,7 @@ Stake **OSMO** to at least one of the following Validators:&#x20;
 * [Citadel.one](https://www.mintscan.io/osmosis/validators/osmovaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qxwmj9we)
 * [Stakewolle.com](https://www.mintscan.io/osmosis/validators/osmovaloper122yaxffys6rmv03nwwkmn3rvr5skzxl9lry2a5)\
   \
-  To stake **OSMO**, go to [https://wallet.bitsong.io/](https://wallet.bitsong.io/) \
+  To stake **OSMO**, go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) \
   \
   \- Click on the top of the page and select the **Osmosis Chain**. \
   \- Go to **Validator** Section and **Select one the Validator** listed above and **Delegate your OSMO**.&#x20;
@@ -84,14 +84,14 @@ Stake **JUNO** to at least one of the following Validators:&#x20;
 * [cyberG](https://www.mintscan.io/juno/validators/junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0)
 * [CommunityStaking](https://www.mintscan.io/juno/validators/junovaloper1zxx8j75ngm8m38v9l5wreaavwnsuun7gcq5cu8)\
   \
-  To stake **JUNO**, go to [https://wallet.bitsong.io/](https://wallet.bitsong.io/) \
+  To stake **JUNO**, go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) \
   \
   \- Click on the top of the page and select the **JUNO Chain.** \
   \- Go to **Validator** Section and **Select one the Validator** listed above and **Delegate your JUNO**.&#x20;
 
 ### Provide Liquidity on Osmosis
 
-Provide Liquidity on [https://app.osmosis.zone/](https://app.osmosis.zone/) at least in one of the following Pools:\
+Provide Liquidity on [https://app.osmosis.zone/](https://app.osmosis.zone) at least in one of the following Pools:\
 \
 [**Pool #573 BTSG/OSMO**](https://app.osmosis.zone/pool/573)\
 [**Pool #574 BTSG/ATOM**](https://app.osmosis.zone/pool/574)\
@@ -101,11 +101,11 @@ To provide Liquidity in **BTSG** Pools, read our [**guide**](how-to-add-usdbtsg-
 
 ### Provide Liquidity on Juno Swap
 
-Provide Liquidity in [https://junoswap.com/](https://junoswap.com/) in the following Pool: \
+Provide Liquidity in [https://junoswap.com/](https://junoswap.com) in the following Pool: \
 \
 **Pool #JUNO-BTSG** [https://junoswap.com/pools/JUNO-BTSG](https://junoswap.com/pools/JUNO-BTSG)\
 \
-To Provide Liquidity on Juno Swap, go to [https://junoswap.com/](https://junoswap.com/). \
+To Provide Liquidity on Juno Swap, go to [https://junoswap.com/](https://junoswap.com). \
 \
 \- Click on the left menu: Liquidity;\
 \- Click on the Pool #JUNO-BTSG;\
