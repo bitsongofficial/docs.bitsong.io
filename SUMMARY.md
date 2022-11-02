@@ -31,6 +31,7 @@
 
 ## Testnet
 
+* [CosmWasm](testnet/cosmwasm.md)
 * [Network](testnet/network.md)
 * [Install go-bitsong (cosmwasm)](testnet/install-go-bitsong-cosmwasm.md)
 * [Wallet and Faucet](testnet/wallet-and-faucet.md)
