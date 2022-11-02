@@ -22,7 +22,7 @@ description: >-
 
 ![](<../.gitbook/assets/Group 326.png>)
 
-**5.** Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
+**5.** Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io/) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2022-04-26 at 20.38.53.png>)
 

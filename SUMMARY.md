@@ -20,7 +20,6 @@
 * [Install go-bitsong](blockchain/install-go-bitsong.md)
 * [Join the Mainnet](blockchain/join-the-mainnet.md)
 * [Create Validator](blockchain/create-validator.md)
-* [Join the Testnet](blockchain/join-the-testnet.md)
 * [CLI Guide](blockchain/cli-guide.md)
 * [Gas and Fees](blockchain/gas-and-fees.md)
 * [Pruning of State](blockchain/pruning-of-state.md)
@@ -29,6 +28,18 @@
 * [Upgrades](blockchain/upgrades/README.md)
   * [From v0.8.0 to v0.10.0](blockchain/upgrades/from-v0.8.0-to-v0.10.0.md)
   * [From v0.10.0 to v0.11.0](blockchain/upgrades/from-v0.10.0-to-v0.11.0.md)
+
+## Testnet
+
+* [Network](testnet/network.md)
+* [Install go-bitsong (cosmwasm)](testnet/install-go-bitsong-cosmwasm.md)
+* [Wallet and Faucet](testnet/wallet-and-faucet.md)
+* [Validators](testnet/install-go-bitsong/README.md)
+  * [Join the Testnet](testnet/install-go-bitsong/join-the-testnet.md)
+  * [Create Validator](testnet/install-go-bitsong/create-validator.md)
+* [Developers](testnet/developers/README.md)
+  * [Install rust](testnet/developers/install-rust.md)
+  * [Deploy a Smart Contract](testnet/developers/deploy-a-smart-contract.md)
 
 ## Features and Modules
 

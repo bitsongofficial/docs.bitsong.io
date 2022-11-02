@@ -1,6 +1,6 @@
 # Links
 
-**Website**: [https://bitsong.io/](https://bitsong.io)\
+**Website**: [https://bitsong.io/](https://bitsong.io/)\
 **Sinfonia**: (coming soon)\
 **Twitter:** [https://twitter.com/BitSongOfficial](https://twitter.com/BitSongOfficial)\
 **Twitter Hispanic**: [https://twitter.com/BitSongHispanic](https://twitter.com/BitSongHispanic)\
