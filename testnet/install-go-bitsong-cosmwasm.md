@@ -39,7 +39,7 @@ Clone the `go-bitsong` repo, checkout and install \`v0.11.0\` :
 cd $HOME
 git clone https://github.com/bitsongofficial/go-bitsong
 cd go-bitsong
-git checkout cosmwasm_integration
+git checkout bwasmnet-1
 make install
 ```
 
