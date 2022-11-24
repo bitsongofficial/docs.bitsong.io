@@ -50,20 +50,6 @@ So name your wallet, set a password, and proceed.
 
 ![](<../.gitbook/assets/Group 492.png>)
 
-**10.** To create a new _testnet_ wallet , go to [https://wallet.testnet.bitsong.io/](https://wallet.testnet.bitsong.io/)
-
-**11.**  As you did to create your BitSong wallet, click on " _Keplr browser extension_"
-
-![](<../.gitbook/assets/Group 494 (1).png>)
-
-**12.** Wallet.bitsong will then execute Keplr and will ask you to **add and connect the bitsong testnet** chain. You must approve by signing them with Keplr.
-
-![](<../.gitbook/assets/Group 493 (1).png>)
-
-**13. Y**ou have successfully configured your _testnet_ wallet. Remember that the address of the testnet wallet is the same as the _mainnet_ wallet.
-
-![](<../.gitbook/assets/Group 496.png>)
-
 Your are now all set! Your BitSong wallet is ready to interact with the BitSong Blockchain.
 
-Governance operations must be performed within the wallet.bitsong.io interface and signed with Keplr.
+Governance operations must be performed within the https://wallet.bitsong.io interface and signed with Keplr.
