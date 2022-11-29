@@ -1,12 +1,14 @@
 ---
 description: >-
-  This is a quick guide on how to create a new BitSong wallet for users who
-  don't yet have one or wish to create a new one.
+  This is a guide on how to create a new BitSong wallet for users who don't have
+  one yet.
 cover: ../.gitbook/assets/photo_2021-05-11_14-40-52.jpg
 coverY: 0
 ---
 
 # How to Create a BitSong wallet
+
+We are using as example Keplr but in the "[**Wallets**](../btsg/wallets.md)" section you have other valid options as well.
 
 1. Make sure you have installed the **Keplr** browser extension. If you don't already have it, then you can download the extension and install it from [**here**](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)**.**
 
