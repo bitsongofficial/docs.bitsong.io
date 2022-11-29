@@ -19,9 +19,13 @@ You will need the Chrome browser (or Brave) to use the Keplr wallet. You can dow
 
 Access your account on [Cosmostation web wallet](https://wallet.cosmostation.io/cosmos) via Ledger hardware wallet or Keystation powered by Cosmostation.
 
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-29 172929.png" alt=""><figcaption></figcaption></figure>
+
 #### Extension Wallet
 
 [Cosmostation Wallet Extension](https://chrome.google.com/webstore/detail/cosmostation/fpkhgmpbidmiogeglndfbkegfdlnajnf?utm\_source=chrome-ntp-icon) is a 100% non-custodial chrome extension wallet that supports multiple sovereign networks and inter-chain bridges.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-29 173103.png" alt=""><figcaption></figcaption></figure>
 
 #### Mobile Wallet
 
@@ -29,6 +33,8 @@ Industry leading non-custodial mobile wallet designed for PoS blockchains. Explo
 \
 1\. Get it on [Google Play](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)\
 2\. Get in on [App Store](https://apps.apple.com/kr/app/cosmostation/id1459830339)
+
+<figure><img src="../.gitbook/assets/photo_2022-11-29_17-33-58.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Leap Wallet
 
