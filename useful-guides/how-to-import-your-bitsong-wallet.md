@@ -6,6 +6,8 @@ description: >-
 
 # How to Import Your BitSong Wallet
 
+We are using as example Keplr but in the "[**Wallets**](../btsg/wallets.md)" section you have other valid options as well.\
+\
 **1.** Make sure you have installed the **Keplr** browser extension. If you don't already have it, then you can download the extension and install it from [**here**](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)**.**
 
 ![](<../.gitbook/assets/Cattura (1).PNG>)
