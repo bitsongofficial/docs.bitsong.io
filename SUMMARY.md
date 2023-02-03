@@ -28,6 +28,7 @@
 * [Upgrades](blockchain/upgrades/README.md)
   * [From v0.8.0 to v0.10.0](blockchain/upgrades/from-v0.8.0-to-v0.10.0.md)
   * [From v0.10.0 to v0.11.0](blockchain/upgrades/from-v0.10.0-to-v0.11.0.md)
+  * [From v0.12.x to v0.13.0](blockchain/upgrades/from-v0.12.x-to-v0.13.0.md)
 
 ## Testnet
 
