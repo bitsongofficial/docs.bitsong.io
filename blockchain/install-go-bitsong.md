@@ -22,18 +22,18 @@ sudo apt install git build-essential ufw curl jq --yes
 Install `go` by following the [official docs](https://golang.org/doc/install). On Ubuntu, you can probably use:
 
 ```
-wget -q -O - https://git.io/vQhTU | bash -s -- --version 1.18.3
+wget -q -O - https://git.io/vQhTU | bash -s -- --version 1.19.5
 ```
 
 ### Install go-bitsong binary
 
-Clone the `go-bitsong` repo, checkout and install `v0.12.0` :
+Clone the `go-bitsong` repo, checkout and install `v0.13.0` :
 
 ```
 cd $HOME
 git clone https://github.com/bitsongofficial/go-bitsong
 cd go-bitsong
-git checkout v0.12.0
+git checkout v0.13.0
 make install
 ```
 
@@ -48,5 +48,5 @@ bitsongd version
 `bitsongd` for instance should output something similar to:
 
 ```
-0.12.0
+0.13.0
 ```
