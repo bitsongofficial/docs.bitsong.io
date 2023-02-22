@@ -1,7 +1,8 @@
 # Links
 
 **Website**: [https://bitsong.io/](https://bitsong.io/)\
-**Sinfonia**: (coming soon)\
+**Sinfonia**: https://sinfonia.zone\
+**Sinfonia App**: https://app.sinfonia.zone\
 **Twitter:** [https://twitter.com/BitSongOfficial](https://twitter.com/BitSongOfficial)\
 **Twitter Hispanic**: [https://twitter.com/BitSongHispanic](https://twitter.com/BitSongHispanic)\
 **Twitter Sinfonia**: [https://twitter.com/sinfoniazone](https://twitter.com/sinfoniazone)\
