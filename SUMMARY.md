@@ -85,3 +85,11 @@
 * [How to Participate in the Fan Token Airdrop](useful-guides/how-to-participate-in-the-fan-token-airdrop.md)
 * [Sinfonia User's Guide](useful-guides/sinfonia-users-guide.md)
 * [How to Report a Bug on Sinfonia](useful-guides/how-to-report-a-bug-on-sinfonia.md)
+
+## Global Ambassador Program
+
+* [Who is an ambassador?](global-ambassador-program/who-is-an-ambassador.md)
+* [Program Rules](global-ambassador-program/program-rules.md)
+* [Start](global-ambassador-program/start.md)
+* [Navigation](global-ambassador-program/navigation.md)
+* [Ratings](global-ambassador-program/ratings.md)
