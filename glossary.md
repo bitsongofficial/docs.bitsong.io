@@ -112,7 +112,7 @@
 
 **Wallet -** A designated storage location for digital assets (cryptocurrency) that has an address for sending and receiving funds. The wallet can be online, offline, or on a physical device.
 
-[Validator](validators/) - someone who operates a full node and validates transactions to secure the BitSong blockchain in return for rewards
+[Validator](testnet/install-go-bitsong/) - someone who operates a full node and validates transactions to secure the BitSong blockchain in return for rewards
 
 **Volatily** - A statistical measure of dispersion of returns, measured by using the standard deviation or variance between returns from that same security or market index.
 

@@ -12,7 +12,7 @@ We are using as example Keplr but in the "[**Wallets**](../btsg/wallets.md)" sec
 
 1. Make sure you have installed the **Keplr** browser extension. If you don't already have it, then you can download the extension and install it from [**here**](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap?hl=en)**.**
 
-![](<../.gitbook/assets/Cattura (1).PNG>)
+![](../.gitbook/assets/Cattura.PNG)
 
 **2**. Once you have your Keplr extension installed, open it. In the new window that opens, select "_Create a new wallet_."
 
@@ -30,7 +30,7 @@ So name your wallet, set a password, and proceed.
 
 **4**. You have now your brand-new Cosmos Wallet ready to use!
 
-![](<../.gitbook/assets/Group 326 (1).png>)
+![](<../.gitbook/assets/Group 326.png>)
 
 **5**. Now let's get your new BitSong Wallet address. Go to [https://wallet.bitsong.io/](https://wallet.bitsong.io/) and among the options in the first window, select "_Keplr Browser Extension,_" per the image below.&#x20;
 
