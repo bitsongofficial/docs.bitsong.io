@@ -76,6 +76,11 @@
 
 * [bitsongJS](developers/bitsongjs.md)
 
+## PRODUCTS
+
+* [Sinfonia](products/sinfonia.md)
+* [BitSong Studio](products/bitsong-studio.md)
+
 ## USEFUL GUIDES
 
 * [How to Create a BitSong wallet](useful-guides/how-to-create-a-bitsong-wallet.md)

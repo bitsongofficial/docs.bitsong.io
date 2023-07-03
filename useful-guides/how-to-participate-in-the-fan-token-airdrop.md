@@ -13,7 +13,7 @@ In order to be eligible for [**Fan Token Airdrops**](https://bitsong.io/airdrop/
 
 Stake at least 400 **BTSG** to any Validator on [**BitSong Mainnet**](https://www.mintscan.io/bitsong/validators). \
 \
-To stake your **BTSG**, take a look at our **** [**guide**.](how-to-stake-usdbtsg.md) \
+To stake your **BTSG**, take a look at our [**guide**.](how-to-stake-usdbtsg.md) \
 
 
 ### Stake OSMO
