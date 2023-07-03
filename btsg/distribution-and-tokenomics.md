@@ -2,7 +2,7 @@
 
 **BTSG** is the native token of the BitSong network. It is used by the BitSong governance system to vote on blocks and improvement proposals. The amount of BTSGs staked, as well as the duration of the validator’s staking term, determines their voting power on improvement proposals.
 
-BTSG bitsong-mainnet is a Bech32 standard token and is used not only for staking, but also for paying fees and for exchanges between artists and their fans, music providers and investors.
+BTSG bitsong-mainnet is a Cosmos standard token and is used not only for staking, but also for paying fees and for exchanges between artists and their fans, music providers and investors.
 
 BTSG is the fuel for running BitSong’s entire ecosystem.
 
@@ -14,7 +14,13 @@ More than 90% (104,973,699 BTSG) of the total initial supply of BTSG (116,420,85
 
 Total Initial Supply - 116,420,850 BTSG
 
-Crowdfunding (50%) - 58,210,425 Team (20%) - 23,284,170 Reserve Fund (15%) - 17,463,128 Advisor (7%) - 8,149,460 Marketing & Partnerships (5%) - 5,821,043 Bounty Contest (2%) - 2,328,417 Airdrop Contest (1%) - 1,164,209
+* Crowdfunding (50%) - 58,210,425
+* Team (20%) - 23,284,170
+* Reserve Fund (15%) - 17,463,128
+* Marketing & Partnerships (7%) - 8,149,460
+* Advisors (5%) - 5,821,043&#x20;
+* Bounty Contest (2%) - 2,328,417 (held in 2018 - the tokens were sent to the participants in erc-20 version)
+* Airdrop Contest (1%) - 1,164,209 (held in 2018 - the tokens were sent to the participants in erc-20 version)
 
 ## Inflation and Rewards
 
@@ -24,4 +30,4 @@ Similarly, the reward percentage fluctuates as a function of the inflation rate 
 
 Put simply, the formula is designed such that, in case the amount of bonded BTSG decreases, participants can earn higher rewards because the inflation parameter increases the amount of newly minted BTSG. The increased rewards will attract more bonded BTSG and in turn, increase network security.
 
-You can view the inflation rate and percentage of bonded BTSG in real time using the [**BitSong Explorer**](https://bitsong.bigdipper.live).
+You can view the inflation rate and percentage of bonded BTSG in real time using the [**BitSong Explorer**](https://www.mintscan.io/bitsong).

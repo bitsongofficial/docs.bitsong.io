@@ -4,7 +4,7 @@ description: This is a quick guide for adding $BTSG liquidity to Osmosis Pools.
 
 # How to Add $BTSG Liquidity to Osmosis Pools
 
-**1.** Go to [**https://osmosis.zone**](https://osmosis.zone)
+**1.** Go to **** [**https://osmosis.zone**](https://osmosis.zone)****
 
 ![](<../.gitbook/assets/Group 351.png>)
 
@@ -16,7 +16,7 @@ description: This is a quick guide for adding $BTSG liquidity to Osmosis Pools.
 
 ![](<../.gitbook/assets/Group 353.png>)
 
-**4.** Click on "_Assets_" in the left navigation menu and find $BTSG on the list.  Now click on "_Deposit_" to transfer your $BTSG from your BitSong Wallet to **Osmosis**.
+**4.** Click on "_Assets_" in the left navigation menu **** and find $BTSG on the list.  Now click on "_Deposit_" to transfer your $BTSG from your BitSong Wallet to **Osmosis**.
 
 ![](<../.gitbook/assets/Group 354.png>)
 
@@ -24,7 +24,7 @@ description: This is a quick guide for adding $BTSG liquidity to Osmosis Pools.
 
 ![](<../.gitbook/assets/Group 383.png>)
 
-**6.** Now it's time to select the pool to which you want to add liquidity. You can find **three** different BTSG pools: Pool #**574** $ATOM/$BTSG - Pool #**573** $BTSG/$OSMO and Pool #**592** $UST/$BTSG.&#x20;
+**6.** Now it's time to select the pool to which you want to add liquidity. **** You can find **three** different BTSG pools: Pool #**574** $ATOM/$BTSG - Pool #**573** $BTSG/$OSMO and Pool #**592** $UST/$BTSG. ****&#x20;
 
 **In this guide, we will add liquidity to Pool #573 $BTSG/$OSMO but the principles are the same for all Osmosis BTSG pools.**&#x20;
 

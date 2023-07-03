@@ -34,7 +34,7 @@ description: This is a simple Guide to Stake your $BTSG using the BitSong Wallet
 ![](<../.gitbook/assets/Schermata 2022-03-07 alle 16.47.png>)
 
 You have correctly Stake your _$BTSG._\
-\
-
+__\
+__
 
 ![](<../.gitbook/assets/Schermata 2022-03-07 alle 16.56.png>)
