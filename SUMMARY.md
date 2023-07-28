@@ -79,7 +79,9 @@
 ## PRODUCTS
 
 * [Sinfonia](products/sinfonia.md)
-* [BitSong Studio](products/bitsong-studio.md)
+* [BitSong Studio](products/bitsong-studio/README.md)
+  * [🚀Get Started](products/bitsong-studio/get-started/README.md)
+    * [🔑Wallet Authentication](products/bitsong-studio/get-started/wallet-authentication.md)
 
 ## USEFUL GUIDES
 

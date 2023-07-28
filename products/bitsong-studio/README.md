@@ -4,7 +4,7 @@ description: coming soon
 
 # BitSong Studio
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-07-03 165555.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-07-03 165555.jpg" alt=""><figcaption></figcaption></figure>
 
 Welcome to bStudio, the ultimate platform for creators to unleash their full potential in the world of digital art, music, and fan engagement. Built on the robust BitSong blockchain, bStudio offers a cutting-edge toolkit for crafting and managing your very own Fan Tokens and NFTs, revolutionizing the way artists connect with their fans.
 
