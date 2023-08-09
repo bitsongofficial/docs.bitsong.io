@@ -86,6 +86,7 @@
     * [👤My Account / Profile](products/bitsong-studio/get-started/my-account-profile.md)
     * [🎼Create NFT Collection](products/bitsong-studio/get-started/create-nft-collection.md)
     * [🎻Create / Mint NFT](products/bitsong-studio/get-started/create-mint-nft.md)
+    * [🎉Create LaunchParty](products/bitsong-studio/get-started/create-launchparty.md)
 
 ## USEFUL GUIDES
 
