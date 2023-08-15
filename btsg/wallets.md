@@ -2,7 +2,7 @@
 
 ## BTSG-supported Wallets
 
-BitSong recommends using the Bitsong/Keplr wallet for BitSong mainnet BTSG tokens management.\
+BitSong recommends using the Bitsong/Keplr wallet for BitSong mainnet BTSG tokens management from desktop.\
 You can access our [UI Dashboard](https://wallet.bitsong.io) via Keplr and perform transfers or governance actions (recommended).
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-29 172139.png" alt=""><figcaption></figcaption></figure>
@@ -48,15 +48,17 @@ Open a new wallet or import one via the available options and start managing you
 
 <figure><img src="../.gitbook/assets/FibZX9yVQAEfimv.jpg" alt=""><figcaption></figcaption></figure>
 
-#### Mobile App Wallet (Support for BitSong coming soon)
+#### Mobile App Wallet (Full Support for BitSong)
 
 1. Get it for [**Android**](https://www.leapwallet.io/cosmos)
 2. Get it for [**iOS**](https://www.leapwallet.io/cosmos)
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-29 172529.png" alt=""><figcaption></figcaption></figure>
 
+Once you downloaded and installed the app, you need to create or import your wallet into it.\
+After you wallet is set, then all you need to do is clicking on the blockchain icon (upper right) which usually is set to Cosmos Blockchain by default and looking for BitSong in the chains list as in the image below.\
+Select the BitSong Blockchain from the list and you're all set, ready to copy and distribute your bitsong wallet address.
 
+<figure><img src="../.gitbook/assets/photo_2023-08-15_15-28-02.jpg" alt=""><figcaption></figcaption></figure>
 
-[![chain\_img](https://www.cosmostation.io/\_next/static/media/light\_play\_store.ac8ff4e6.svg)](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)[![chain\_img](https://www.cosmostation.io/\_next/static/media/light\_app\_store.97f6e176.svg)](https://apps.apple.com/kr/app/cosmostation/id1459830339)\
-
-
+[![chain\_img](https://www.cosmostation.io/\_next/static/media/light\_play\_store.ac8ff4e6.svg)](https://play.google.com/store/apps/details?id=wannabit.io.cosmostaion)[![chain\_img](https://www.cosmostation.io/\_next/static/media/light\_app\_store.97f6e176.svg)](https://apps.apple.com/kr/app/cosmostation/id1459830339)
