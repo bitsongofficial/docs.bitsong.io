@@ -6,7 +6,7 @@ description: BitSong Blockchain Documentation
 
 ## What is BitSong?
 
-[**BitSong**](https://bitsong.io) is a multifunctional blockchain-based ecosystem built to empower the music industry. It unites artists, fans, distributors in an environment where music, merchandise, and fan loyalty are assets of value. BitSong’s decentralized ecosystem of services providers the global music community with a trustless marketplace for **music streaming**, **Fan Tokens**, and **NFTs**, powered by the BTSG token.
+[**BitSong**](https://bitsong.io) is a multifunctional blockchain-based ecosystem built to empower the music industry. It unites artists, fans, distributors in an environment where music, merchandise, and fan loyalty are assets of value. BitSong’s decentralized ecosystem of services provides the global music community with a trustless marketplace for **music streaming**, **Fan Tokens**, and **NFTs**, powered by the BTSG token.
 
 ## Brief History of BitSong
 
