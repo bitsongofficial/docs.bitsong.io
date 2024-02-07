@@ -79,15 +79,7 @@
 ## PRODUCTS
 
 * [Sinfonia](products/sinfonia.md)
-* [BitSong Studio](products/bitsong-studio/README.md)
-  * [🚀Get Started](products/bitsong-studio/get-started/README.md)
-    * [👝Create BitSong Wallet](products/bitsong-studio/get-started/create-bitsong-wallet.md)
-    * [🔑Wallet Authentication](products/bitsong-studio/get-started/wallet-authentication.md)
-    * [💸Get Faucet Tokens](products/bitsong-studio/get-started/get-faucet-tokens.md)
-    * [👤My Account / Profile](products/bitsong-studio/get-started/my-account-profile.md)
-    * [🎼Create NFT Collection](products/bitsong-studio/get-started/create-nft-collection.md)
-    * [🎻Create / Mint NFT](products/bitsong-studio/get-started/create-mint-nft.md)
-    * [🎉Create LaunchParty](products/bitsong-studio/get-started/create-launchparty.md)
+* [BitSong Studio](products/bitsong-studio.md)
 
 ## USEFUL GUIDES
 
