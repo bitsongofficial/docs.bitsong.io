@@ -30,7 +30,7 @@
   * [From v0.10.0 to v0.11.0](blockchain/upgrades/from-v0.10.0-to-v0.11.0.md)
   * [From v0.12.x to v0.13.0](blockchain/upgrades/from-v0.12.x-to-v0.13.0.md)
   * [From v0.13.x to v0.14.0](blockchain/upgrades/from-v0.12.x-to-v0.13.0-1.md)
-  * [From v0.14.x to v0.15.0](blockchain/upgrades/from-v0.12.x-to-v0.13.0-2.md)
+  * [From v0.14.x to v0.15.0](blockchain/upgrades/from-v0.14.x-to-v0.15.0.md)
 
 ## Testnet
 
