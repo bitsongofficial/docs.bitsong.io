@@ -32,25 +32,15 @@
   * [From v0.13.x to v0.14.0](blockchain/upgrades/from-v0.12.x-to-v0.13.0-1.md)
   * [From v0.14.x to v0.15.0](blockchain/upgrades/from-v0.14.x-to-v0.15.0.md)
 
-## Testnet
-
-* [CosmWasm](testnet/cosmwasm.md)
-* [Network](testnet/network.md)
-* [Install go-bitsong (cosmwasm)](testnet/install-go-bitsong-cosmwasm.md)
-* [Wallet and Faucet](testnet/wallet-and-faucet.md)
-* [Validators](testnet/install-go-bitsong/README.md)
-  * [Join the Testnet](testnet/install-go-bitsong/join-the-testnet.md)
-  * [Create Validator](testnet/install-go-bitsong/create-validator.md)
-* [Developers](testnet/developers/README.md)
-  * [Install rust](testnet/developers/install-rust.md)
-  * [Deploy a Smart Contract](testnet/developers/deploy-a-smart-contract.md)
-
 ## Features and Modules
 
 * [Fan Tokens](features-and-modules/fan-tokens.md)
 * [Merkledrop](features-and-modules/merkledrop.md)
 * [NFTs](features-and-modules/nfts.md)
 * [Marketplace](features-and-modules/marketplace.md)
+* [CosmWasm](features-and-modules/cosmwasm/README.md)
+  * [Install rust](features-and-modules/cosmwasm/install-rust.md)
+  * [Deploy a Smart Contract](features-and-modules/cosmwasm/deploy-a-smart-contract.md)
 * [IBC](features-and-modules/ibc.md)
 * [Auth](features-and-modules/auth.md)
 * [Bank](features-and-modules/bank.md)

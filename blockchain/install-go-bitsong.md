@@ -27,13 +27,13 @@ wget -q -O - https://git.io/vQhTU | bash -s -- --version 1.19.5
 
 ### Install go-bitsong binary
 
-Clone the `go-bitsong` repo, checkout and install `v0.14.0` :
+Clone the `go-bitsong` repo, checkout and install `v0.15.0` :
 
 ```
 cd $HOME
 git clone https://github.com/bitsongofficial/go-bitsong
 cd go-bitsong
-git checkout v0.14.0
+git checkout v0.15.0
 make install
 ```
 
@@ -48,5 +48,5 @@ bitsongd version
 `bitsongd` for instance should output something similar to:
 
 ```
-0.14.0
+0.15.0
 ```
