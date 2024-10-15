@@ -15,3 +15,9 @@ In practice, IBC allows BTSG to become listed on any Cosmos DEX such as Gravity 
 For instance, as the Cosmos DeFi ecosystem develops, someone could use the value stored in their BitSong-issued NFTs as collateral to take out a loan. Please note that this documentation will be updated as and when such integrations become available to users.
 
 IBC is also a critical enabler for the Liquidity Module.
+
+## IBC Features 
+
+### Light Clients 
+
+### Packet Forward Middleware 
