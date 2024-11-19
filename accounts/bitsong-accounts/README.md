@@ -1,11 +1,11 @@
-# Abstract Accounts 
+# Bitsong Accounts 
 
-*The Abstract Framework is frequently being iterated, so please review the [documentation of Abstract Accounts](https://docs.abstract.money/) for precise, detailed specifications.*
+*Bitsong Accounts are built upon the Abstract Frameworkm and is frequently being iterated, so please review the [documentation of Abstract Accounts](https://docs.abstract.money/) for further detailed specifications.*
 
 
 ## Bitsong Accounts - Abstract x Bitsong 
 
-## Ownership Methods 
+<!-- ## Ownership Methods 
 
 ### Monarchy
 
@@ -33,4 +33,4 @@
 
 ### Versioning Control
 
-### Account Indexer 
+### Account Indexer  -->
