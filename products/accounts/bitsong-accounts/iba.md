@@ -4,7 +4,7 @@
 Interchain Bitsong accounts are built to take full advantage of [The Interchain Thesis](https://tutorials.cosmos.network/academy/1-what-is-cosmos/), which includes the [Application Specific Network Thesis](https://maven11.substack.com/p/the-application-specific-chain-thesis). 
 
 
-Bitsong Abstract Account Contracts provides multiple IBC capabilities to every module. Within the framework, there are two ways to interact with other blockchains through IBC:
+Bitsong Abstract Account provides multiple IBC capabilities to every module. Within the framework, there are two ways to interact with other blockchains through IBC:
 
 1. Account IBC interaction
 2. Module IBC interaction

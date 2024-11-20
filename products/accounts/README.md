@@ -3,7 +3,7 @@ Accounts owned by account owners, period.
 ___
 
 ## Introduction
-In their primitives, accounts are a uniquie on-chain identity, controlled by a pair of keys, one secret `Ksk` & one public `Kpk`. These keys can be used to *sign* arbitrary data, authorize transactions to occur, in such a manner that **generates a value mathematically provable** to have been derived from a specific public key. This basic principle is the foundation of cryptography.
+In their primitives, accounts are a uniquie on-chain identity, controlled by a pair of keys, one secret `Ksk` & one public `Kpk`. Public keys are safe to share to the public, however private keys are not, as they are used used to *sign* arbitrary data and authorize transactions to occur in such a manner that **generates a value mathematically provable**  (called a transaction hash). This signature occurs without revealing the private key itself, and is the basic principle that the foundation of cryptography is built upon.
 
 __This section introduces the types of accounts available for use on Bitsong, with the intention to create awareness of the features and tradeoffs of each account type.__
 
@@ -39,3 +39,7 @@ Interchain account allow any account on Bitsong to generate and control an accou
 ## Further Info 
 
 To learn more about accounts on Bitsong, you can reference the [accounts section in the interchain academy tutorials](https://tutorials.cosmos.network/academy/2-cosmos-concepts/2-accounts.html).
+
+### Up Next 
+
+With the primitives of accounts reviewed, let's go on to introduce [Grammos](./grammos), a Telegram Bot for 1-click account creation and management.
