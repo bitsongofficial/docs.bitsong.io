@@ -6,7 +6,7 @@ This guide is exclusively for Validators and Node Operators, please pay **Maximu
 
 ```sh
 export DAEMON_HOME=$HOME/.bitsongd
-sed 's/^minimum-gas-prices = .*/minimum-gas-prices = "0.006969ubtsg"/' $DAEMON_HOME/config/app.toml > temp_file && mv temp_file $DAEMON_HOME/config/app.toml
+sed 's/^minimum-gas-prices = .*/minimum-gas-prices = "0.01ubtsg"/' $DAEMON_HOME/config/app.toml > temp_file && mv temp_file $DAEMON_HOME/config/app.toml
 ```
 
 ### Stop of the node
