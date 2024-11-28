@@ -11,7 +11,7 @@ sed 's/^minimum-gas-prices = .*/minimum-gas-prices = "0.01ubtsg"/' $DAEMON_HOME/
 
 ### Stop of the node
 
-The node will automatically stop at block height `19818776` approximately at `2024-11-27 18:05:00 UTC`. The log file will indicate that in order to continue, you must replace the `bitsongd` binary. At that point you can finish the `bitsongd` process.
+The node will automatically stop at block height `19818776` approximately at `2024-11-29 16:52:00 UTC`. The log file will indicate that in order to continue, you must replace the `bitsongd` binary. At that point you can finish the `bitsongd` process.
 
 ```
 sudo systemctl stop bitsongd
