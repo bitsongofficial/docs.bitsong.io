@@ -27,7 +27,7 @@ In order to perform the backup, you just need to copy the content present on the
 **`Remember to have at least 50% free disk space`**
 
 ```
-cp -Rv ~/.bitsongd ~/backup_bitsongd_0170
+cp -Rv ~/.bitsongd ~/backup_bitsongd_0180
 ```
 
 > This operation should take 5/10 minutes, however, in the event that you're using low performance servers, the process might take up to 30/40 minutes.
@@ -91,7 +91,7 @@ export PLATFORM_TARGET=amd64
  # delete if exists
 rm -rf bitsongd_linux_$PLATFORM_TARGET.tar.gz
 # download 
-curl -L -o ~/bitsongd-linux-arm64.tar.gz https://github.com/bitsongofficial/go-bitsong/releases/download/v0.18.0/bitsongd-linux-$PLATFORM_TARGET.tar.gz
+curl -L -o ~/bitsongd-linux-$PLATFORM_TARGET.tar.gz https://github.com/bitsongofficial/go-bitsong/releases/download/v0.18.0/bitsongd-linux-$PLATFORM_TARGET.tar.gz
 # verify sha256sum 
 sha256sum bitsongd-linux-$PLATFORM_TARGET.tar.gz
 # Output: d3d0da91a01c473351dc57b2ed357aa8ea378a51672eec87112501bc9a53add6  bitsongd-linux-amd64.tar.gz
@@ -112,7 +112,7 @@ bitsongd version --long
 # build_tags: netgo,ledger
 # commit: 50b4082736a68cdde098cf36edd7c7a70d9fdae6
 # cosmos_sdk_version: v0.47.8
-# go: go version go1.23.3 darwin/<you-platform>
+# go: go version go1.23.3 darwin/$PLATFORM_TARGET
 # name: go-bitsong
 # server_name: bitsongd
 # version: 0.18.0
