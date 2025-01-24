@@ -1,5 +1,11 @@
 # Delegator FAQ
 
+{% hint style="warning" %}
+We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
+\
+Visit the new article [https://bitsong.io/en/docs/delegators/delegator-faq](https://bitsong.io/en/docs/delegators/delegator-faq)
+{% endhint %}
+
 This section contains answers to some commonly-asked questions from BTSG delegators.&#x20;
 
 ### What is a delegator? <a href="#what-is-a-delegator" id="what-is-a-delegator"></a>

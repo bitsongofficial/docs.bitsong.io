@@ -1,5 +1,11 @@
 # Join the Mainnet
 
+{% hint style="warning" %}
+We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
+\
+Visit the new article [https://bitsong.io/en/docs/blockchain/join-the-mainnet](https://bitsong.io/en/docs/blockchain/join-the-mainnet)
+{% endhint %}
+
 Make sure to have the [latest go-bitsong version installed](install-go-bitsong.md). First, initialize the node.
 
 ```
@@ -55,9 +61,10 @@ export PEERS="e2b9971222adf71f7199c670b7e85471c447e926@157.90.255.143:26656,1207
 sed -i.bak -e "s/^persistent_peers *=.*/persistent_peers = \"$PEERS\"/" ~/.bitsongd/config/config.toml
 ```
 
-### Synchronise the Node<a href="#download-chain-data" id="synchronise-the-wallet"></a>
+### Synchronise the Node <a href="#synchronise-the-wallet" id="synchronise-the-wallet"></a>
 
 Now we have to syncronise the node with the current state of the blockchain. The fastest way to achieve this is by using [state sync](https://medium.com/tendermint/tendermint-core-state-sync-for-developers-70a96ba3ee35), which we will use for this purpose.
+
 ```
 sudo systemctl stop bitsong
 
@@ -91,7 +98,6 @@ sudo journalctl -u bitsong -f
 ### Enable the REST API <a href="#enable-the-rest-api" id="enable-the-rest-api"></a>
 
 By default, the REST API is disabled. To enable the REST API, edit the `~/.bitsongd/config/app.toml` file, and set `enable` to `true` in the `[api]` section.
-
 
 ```
 ###############################################################################

@@ -4,6 +4,14 @@ description: BitSong Blockchain Documentation
 
 # Introduction
 
+
+
+{% hint style="warning" %}
+We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
+\
+Visit the new article [https://bitsong.io/en/docs/](https://bitsong.io/en/docs/)
+{% endhint %}
+
 ## What is BitSong?
 
 [**BitSong**](https://bitsong.io) is a multifunctional blockchain-based ecosystem built to empower the music industry. It unites artists, fans, distributors in an environment where music, merchandise, and fan loyalty are assets of value. BitSong’s decentralized ecosystem of services provides the global music community with a trustless marketplace for **music streaming**, **Fan Tokens**, and **NFTs**, powered by the BTSG token.

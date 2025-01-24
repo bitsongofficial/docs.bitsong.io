@@ -1,5 +1,11 @@
 # Glossary
 
+{% hint style="warning" %}
+We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
+\
+Visit the new article [https://bitsong.io/en/docs/glossary](https://bitsong.io/en/docs/glossary)
+{% endhint %}
+
 **Account** - A public and private keypair that “holds” your funds.
 
 **Address/ Public key** - Used to send and receive transactions on a blockchain network. An address is an alphanumeric character string, which can also be represented as a scannable QR code. For example: bitsong1yuajbkafahg4uiuhvgv08

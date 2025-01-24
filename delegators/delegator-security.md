@@ -1,8 +1,12 @@
 # Delegator Security
 
+{% hint style="warning" %}
+We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
+\
+Visit the new article [https://bitsong.io/en/docs/delegators/delegator-security](https://bitsong.io/en/docs/delegators/delegator-security)
+{% endhint %}
+
 As the cryptocurrency sector has grown, it's unfortunately become a target for malicious actors, including hackers, scammers, and fraudulent operators. As such, there are some risks associated with holding crypto. However, these risks can be mitigated with some understanding of the kinds of tactics that malicious actors use, and how you can protect yourself against them.&#x20;
-
-
 
 ### Social Engineering <a href="#social-engineering" id="social-engineering"></a>
 

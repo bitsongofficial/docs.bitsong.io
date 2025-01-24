@@ -1,5 +1,11 @@
 # Gas and Fees
 
+{% hint style="warning" %}
+We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
+\
+Visit the new article [https://bitsong.io/en/docs/blockchain/gas-and-fees](https://bitsong.io/en/docs/blockchain/gas-and-fees)
+{% endhint %}
+
 On BitSong mainnet, the accepted denom is `ubtsg`, where `1btsg = 1.000.000ubtsg`
 
 Transactions on the BitSong network need to include a transaction fee in order to be processed. This fee pays for the gas required to run the transaction. The formula is the following:
