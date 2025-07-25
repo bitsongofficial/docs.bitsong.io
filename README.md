@@ -14,11 +14,11 @@ Visit the new article [https://bitsong.io/en/docs/](https://bitsong.io/en/docs/)
 
 ## What is BitSong?
 
-[**BitSong**](https://bitsong.io) is a multifunctional blockchain-based ecosystem built to empower the music industry. It unites artists, fans, distributors in an environment where music, merchandise, and fan loyalty are assets of value. BitSong’s decentralized ecosystem of services provides the global music community with a trustless marketplace for **music streaming**, **Fan Tokens**, and **NFTs**, powered by the BTSG token.
+[**BitSong**](https://bitsong.io) is a **multifunctional blockchain-based ecosystem** built to empower the music industry. It unites artists, fans, distributors in an environment where music, merchandise, and fan loyalty are assets of value. BitSong’s decentralized ecosystem of services provides the global music community with a trustless marketplace for **music streaming**, **Fan Tokens**, and **NFTs**, powered by the BTSG token.
 
 ## Brief History of BitSong
 
-**BitSong** was conceived in 2018 by developer and entrepreneur Angelo Recca. Angelo realized that while the digitalization of music has brought many benefits to the industry, it’s also created a new set of problems around the ownership of music and attribution of royalties. He joined forces with Iulian Anghelin and BitSong was born.
+**BitSong** was conceived in 2018 by developer and entrepreneur Angelo Recca. Angelo, like many others realized that while the digitalization of music has brought many benefits to the industry, it’s also created a new set of problems around the ownership of music and attribution of royalties. He joined forces with Iulian Anghelin and BitSong was born.
 
 The initial intention was for BitSong to become an Ethereum-based application where fans could stream music and artists could receive royalties directly. However, after discovering Cosmos and its ambition to become the “Internet of Blockchains,” Angelo and Iulian immediately recognized the full potential of becoming part of a multi-chain environment.
 

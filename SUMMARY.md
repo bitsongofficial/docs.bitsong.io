@@ -1,6 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [BTSG](btsg/README.md)
+  * [What is BTSG ?](btsg/what-is-btsg.md)
+  * [Distribution and Tokenomics](btsg/distribution-and-tokenomics.md)
+  * [Wallets](btsg/wallets.md)
+  * [Buy and Sell](btsg/buy-and-sell.md)
+  * [Liquidity Provider](btsg/liquidity-provider.md)
 * [Delegators](delegators/README.md)
   * [Delegator FAQ](delegators/delegator-faq.md)
   * [Delegator Security](delegators/delegator-security.md)
@@ -8,7 +14,7 @@
   * [Validator Overview](validators/validator-overview.md)
   * [Validator FAQ](validators/validator-faq.md)
   * [Validator Security](validators/validator-security.md)
-* [Relayer](relayer.md)
+* [IBC](ibc.md)
 * [FAQ](faq.md)
 * [Glossary](glossary.md)
 * [Roadmap](roadmap.md)
@@ -20,6 +26,7 @@
 * [Install go-bitsong](blockchain/install-go-bitsong.md)
 * [Join the Mainnet](blockchain/join-the-mainnet.md)
 * [Create Validator](blockchain/create-validator.md)
+* [Relayer](blockchain/relayer.md)
 * [CLI Guide](blockchain/cli-guide.md)
 * [Gas and Fees](blockchain/gas-and-fees.md)
 * [Pruning of State](blockchain/pruning-of-state.md)
@@ -32,6 +39,7 @@
   * [From v0.13.x to v0.14.0](blockchain/upgrades/from-v0.12.x-to-v0.13.0-1.md)
   * [From v0.14.x to v0.15.0](blockchain/upgrades/from-v0.14.x-to-v0.15.0.md)
   * [From v0.17.0 to v0.18.0](blockchain/upgrades/from-v0.17.x-to-v0.18.0.md)
+* [Application Testing](blockchain/application-testing.md)
 
 ## Features and Modules
 
@@ -42,12 +50,13 @@
 * [CosmWasm](features-and-modules/cosmwasm/README.md)
   * [Install rust](features-and-modules/cosmwasm/install-rust.md)
   * [Deploy a Smart Contract](features-and-modules/cosmwasm/deploy-a-smart-contract.md)
+  * [Propose to Upload Cosmwasm Contracts](features-and-modules/cosmwasm/propose-to-upload-cosmwasm-contracts.md)
 * [IBC](features-and-modules/ibc.md)
 * [Auth](features-and-modules/auth.md)
 * [Bank](features-and-modules/bank.md)
 * [Crisis](features-and-modules/crisis.md)
-* [Capability](features-and-modules/capability.md)
 * [Community Pool](features-and-modules/community-pool.md)
+* [Consensus](features-and-modules/consensus.md)
 * [Distribution](features-and-modules/distribution.md)
 * [Evidence](features-and-modules/evidence.md)
 * [Governance](features-and-modules/governance.md)
@@ -56,31 +65,57 @@
 * [Slashing](features-and-modules/slashing.md)
 * [Upgrade](features-and-modules/upgrade.md)
 
-## BTSG
-
-* [What is BTSG ?](btsg/what-is-btsg.md)
-* [Distribution and Tokenomics](btsg/distribution-and-tokenomics.md)
-* [Wallets](btsg/wallets.md)
-* [Buy and Sell](btsg/buy-and-sell.md)
-* [Liquidity Provider](btsg/liquidity-provider.md)
-
 ## Developers
 
 * [bitsongJS](developers/bitsongjs.md)
+* [cw-orchestrator](developers/cw-orchestrator.md)
 
 ## PRODUCTS
 
 * [Sinfonia](products/sinfonia.md)
 * [BitSong Studio](products/bitsong-studio.md)
+* [Bitsong Accounts](products/bitsong-accounts/README.md)
+  * [Grammos](products/bitsong-accounts/grammos.md)
+  * [Abstract Accounts on Bitsong](products/bitsong-accounts/abstract-accounts-on-bitsong/README.md)
+    * [developers](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/README.md)
+      * [getting-started](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/getting-started.md)
+      * [dependencies](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/dependencies.md)
+      * [client](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/client.md)
+      * [sdk](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/sdk.md)
+      * [iba](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/iba/README.md)
+        * [modules](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/iba/modules.md)
+      * [testing](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/testing.md)
+      * [deployment](products/bitsong-accounts/abstract-accounts-on-bitsong/developers/deployment.md)
+    * [guides](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/README.md)
+      * [create-an-account](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/create-an-account.md)
+      * [create-a-sub-account](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/create-a-sub-account.md)
+      * [create-an-iba](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/create-an-iba.md)
+      * [install-a-module](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/install-a-module.md)
+      * [migrate ownership](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/migrate-ownership.md)
+      * [tokenized-account](products/bitsong-accounts/abstract-accounts-on-bitsong/guides/tokenized-account.md)
+    * [infrastructure](products/bitsong-accounts/abstract-accounts-on-bitsong/infrastructure/README.md)
+      * [indexer](products/bitsong-accounts/abstract-accounts-on-bitsong/infrastructure/indexer.md)
+      * [modules](products/bitsong-accounts/abstract-accounts-on-bitsong/infrastructure/modules.md)
+      * [name-service](products/bitsong-accounts/abstract-accounts-on-bitsong/infrastructure/name-service.md)
+      * [registry](products/bitsong-accounts/abstract-accounts-on-bitsong/infrastructure/registry.md)
+  * [interchain](products/bitsong-accounts/interchain.md)
+* [DAO DAO](products/dao-dao.md)
 
 ## USEFUL GUIDES
 
-* [How to Create a BitSong wallet](useful-guides/how-to-create-a-bitsong-wallet.md)
-* [How to Import Your BitSong Wallet](useful-guides/how-to-import-your-bitsong-wallet.md)
-* [How to Stake $BTSG](useful-guides/how-to-stake-usdbtsg.md)
-* [How to Add $BTSG Liquidity to Osmosis Pools](useful-guides/how-to-add-usdbtsg-liquidity-to-osmosis-pools.md)
-* [Sinfonia User's Guide](useful-guides/sinfonia-users-guide.md)
-* [How to Report a Bug on Sinfonia](useful-guides/how-to-report-a-bug-on-sinfonia.md)
+* [Wallet](useful-guides/wallet/README.md)
+  * [How to Create a BitSong wallet](useful-guides/wallet/how-to-create-a-bitsong-wallet.md)
+  * [How to Import Your BitSong Wallet](useful-guides/wallet/how-to-import-your-bitsong-wallet.md)
+* [Staking](useful-guides/staking/README.md)
+  * [How to Stake $BTSG](useful-guides/staking/how-to-stake-usdbtsg.md)
+* [Sinfonia](useful-guides/sinfonia/README.md)
+  * [Sinfonia User's Guide](useful-guides/sinfonia/sinfonia-users-guide.md)
+  * [How to Add $BTSG Liquidity to Osmosis Pools](useful-guides/sinfonia/how-to-add-usdbtsg-liquidity-to-osmosis-pools.md)
+  * [How to Report a Bug on Sinfonia](useful-guides/sinfonia/how-to-report-a-bug-on-sinfonia.md)
+* [Nodes](useful-guides/nodes/README.md)
+  * [Sentry Nodes via Akash](useful-guides/nodes/sentry-nodes-via-akash.md)
+* [Fantokens](useful-guides/fantokens.md)
+* [DAODAO](useful-guides/daodao.md)
 
 ## Global Ambassador Program
 

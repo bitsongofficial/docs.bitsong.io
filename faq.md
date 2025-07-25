@@ -59,7 +59,7 @@ Through the Fan Token system, the Artist earns everything they have always wante
 
 **Has a FanToken an economic value?**
 
-Yes, it works the same as crypto currency! The economics value follows the BTSG index and of course the Artist progress**.**
+Yes, it works the same as crypto currency! The economics value follows the BTSG index and of course the Artist progres&#x73;**.**
 
 **What is Staking?**
 

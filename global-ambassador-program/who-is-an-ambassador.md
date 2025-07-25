@@ -2,6 +2,7 @@
 description: >-
   Our mission is to create the most correct and healthy web3 community, with
   which we will develop a new era of music in web3.
+hidden: true
 ---
 
 # Who is an ambassador?
