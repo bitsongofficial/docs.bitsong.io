@@ -4,7 +4,7 @@ description: BitSong is a multifunctional blockchain-based ecosystem built to em
 navigation:
   icon: i-lucide-music
 seo:
-  title: What is BitSong
+  title: Introduction
   description: Learn about BitSong, a blockchain-based ecosystem for the music industry powered by the BTSG token.
 ---
 
@@ -22,13 +22,27 @@ The initial intention was for BitSong to become an Ethereum-based application wh
 
 After launching the main BitSong blockchain in August 2020, the **bitsong-2b** mainnet went live on October 21, 2021. Featuring Fan Tokens, NFTs, and a music streaming platform — all underpinned by secure, robust, battle-tested blockchain technology — the launch of BitSong marks a turning point in the ongoing development of the music industry.
 
+::tip
+BitSong is built on the [Cosmos SDK](https://cosmos.network) and uses [IBC](/en/ibc) for cross-chain interoperability with the broader Cosmos ecosystem.
+::
+
 ## What is BTSG?
 
 **BTSG** is the native token of the BitSong ecosystem, powering all of its features.
 
 Artists, music industry participants, and fans can use BTSG to:
 
-- Buy, sell, and trade **Fan Tokens**
-- Buy, sell, and trade **NFTs**
-- Swap BTSG for other cryptocurrencies on centralized and decentralized exchanges
-- Stake BTSG to a Validator to help secure the network and earn rewards
+::card-group
+  ::card{title="Fan Tokens" icon="i-lucide-star"}
+  Buy, sell, and trade **Fan Tokens**
+  ::
+  ::card{title="NFTs" icon="i-lucide-image"}
+  Buy, sell, and trade **NFTs**
+  ::
+  ::card{title="Swap" icon="i-lucide-arrow-left-right"}
+  Swap BTSG for other cryptocurrencies on centralized and decentralized exchanges
+  ::
+  ::card{title="Staking" icon="i-lucide-shield-check"}
+  Stake BTSG to a Validator to help secure the network and earn rewards
+  ::
+::
