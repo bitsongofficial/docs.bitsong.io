@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme static {
+  --container-8xl: 95rem;
+  --font-sans: 'Public Sans', sans-serif;
+
+  --color-bitsong-50: oklch(0.677 0.175 280.67);
+  --color-bitsong-100: oklch(0.684 0.17 280.92);
+  --color-bitsong-200: oklch(0.692 0.166 281.17);
+  --color-bitsong-300: oklch(0.708 0.157 281.64);
+  --color-bitsong-400: oklch(0.718 0.151 281.93);
+  --color-bitsong-500: oklch(0.627 0.204 278.74);
+  --color-bitsong-600: oklch(0.542 0.255 273.8);
+  --color-bitsong-700: oklch(0.457 0.31 264.82);
+  --color-bitsong-800: oklch(0.355 0.246 264.05);
+  --color-bitsong-900: oklch(0.253 0.175 264.05);
+  --color-bitsong-950: oklch(0.205 0.142 264.05);
+}
+
+:root {
+  --ui-container: var(--container-8xl);
+  --scrollbar-thumb: oklch(0.8 0 0 / 0.3);
+}
+
+.dark {
+  --ui-bg: var(--ui-color-neutral-950);
+  --scrollbar-thumb: oklch(0.3 0 0 / 0.3);
+}
+
+aside {
+  scrollbar-width: thin;
+  scrollbar-color: var(--scrollbar-thumb) transparent;
+}
+
+aside::-webkit-scrollbar {
+  width: 4px;
+}
+
+aside::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+aside::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 9999px;
+}
+
