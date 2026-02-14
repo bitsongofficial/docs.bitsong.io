@@ -1,40 +1,123 @@
----
-description: BitSong Blockchain Documentation
----
+# Docus i18n Starter
 
-# Introduction
+> A beautiful, internationalized starter for creating multi-language documentation with Docus
 
+This is the i18n Docus starter template that provides everything you need to build beautiful, multi-language documentation sites with Markdown and Vue components.
 
+## ✨ Features
 
-{% hint style="warning" %}
-We are moving our **documentation** to the new "[**BitSong, the blockchain for music**](https://bitsong.io/en)" website. To access the most up-to-date and complete version of our guides and articles, please visit our new [**bitsong documentation**](https://bitsong.io/en/docs) website. This old documentation site will no longer be maintained or updated, so we **strongly recommend** referring to the new [**bitsong documentation**](https://bitsong.io/en/docs) website for the latest information. If you can't find what you're looking for on the new site, please be patient as we are still in the process of migrating all of our content. Thank you for your understanding!\
-\
-Visit the new article [https://bitsong.io/en/docs/](https://bitsong.io/en/docs/)
-{% endhint %}
+- 🌍 **Internationalization** - Native i18n support for multi-language docs
+- 🎨 **Beautiful Design** - Clean, modern documentation theme
+- 📱 **Responsive** - Mobile-first responsive design  
+- 🌙 **Dark Mode** - Built-in dark/light mode support
+- 🔍 **Search** - Full-text search functionality per language
+- 📝 **Markdown Enhanced** - Extended markdown with custom components
+- 🎨 **Customizable** - Easy theming and brand customization
+- ⚡ **Fast** - Optimized for performance with Nuxt 4
+- 🔧 **TypeScript** - Full TypeScript support
 
-## What is BitSong?
+## 🚀 Quick Start
 
-[**BitSong**](https://bitsong.io) is a **multifunctional blockchain-based ecosystem** built to empower the music industry. It unites artists, fans, distributors in an environment where music, merchandise, and fan loyalty are assets of value. BitSong’s decentralized ecosystem of services provides the global music community with a trustless marketplace for **music streaming**, **Fan Tokens**, and **NFTs**, powered by the BTSG token.
+```bash
+# Install dependencies
+npm install
 
-## Brief History of BitSong
+# Start development server
+npm run dev
+```
 
-**BitSong** was conceived in 2018 by developer and entrepreneur Angelo Recca. Angelo, like many others realized that while the digitalization of music has brought many benefits to the industry, it’s also created a new set of problems around the ownership of music and attribution of royalties. He joined forces with Iulian Anghelin and BitSong was born.
+Your multilingual documentation site will be running at `http://localhost:3000`
 
-The initial intention was for BitSong to become an Ethereum-based application where fans could stream music and artists could receive royalties directly. However, after discovering Cosmos and its ambition to become the “Internet of Blockchains,” Angelo and Iulian immediately recognized the full potential of becoming part of a multi-chain environment.
+## 🌍 Languages
 
-After launching the main BitSong blockchain in August 2020, the **bitsong-2b** mainnet went live on October 21, 2021. Featuring Fan Tokens, NFTs, and music streaming platform, all underpinned by secure, robust, battle-tested blockchain technology, the launch of BitSong marks a turning point in the ongoing development of the music industry.
+This starter comes pre-configured with:
+- 🇺🇸 **English** (`en`) - Default language
+- 🇫🇷 **Français** (`fr`) - French translation
 
-## What is BTSG?
+## 📁 Project Structure
 
-**BTSG** is the ultimate currency for music, powering all the features of the BitSong ecosystems.
+```
+my-docs/
+├── content/              # Your markdown content
+│   ├── en/              # English content
+│   │   ├── index.md     # English homepage
+│   │   └── docs/        # English documentation
+│   └── fr/              # French content
+│       ├── index.md     # French homepage
+│       └── docs/        # French documentation
+├── public/              # Static assets
+├── nuxt.config.ts       # Nuxt configuration with i18n setup
+└── package.json         # Dependencies and scripts
+```
 
-Artists, music industry participants, and fans can use BTSG to:
+### Content Structure
 
-Buy, sell, and trade Fan Tokens&#x20;
+The content is organized by language, making it easy to manage translations:
 
-Buy, sell and trade NFTs&#x20;
+```
+content/
+├── en/                   # English content
+│   ├── index.md
+│   ├── 1.getting-started/
+│   │   ├── installation.md
+│   │   └── configuration.md
+│   └── 2.essentials/
+│       ├── markdown.md
+│       └── components.md
+└── fr/                   # French content
+    ├── index.md
+    ├── 1.getting-started/
+    │   ├── installation.md
+    │   └── configuration.md
+    └── 2.essentials/
+        ├── markdown.md
+        └── components.md
+```
 
-Swap BTSG for other cryptocurrencies on centralized and decentralized exchanges&#x20;
+## 🔗 URL Structure
 
-Stake BTSG to a Validator to help secure the network and earn more BTSG as rewards
+The i18n starter generates URLs with language prefixes:
 
+- English: `/en/getting-started/installation`
+- French: `/fr/getting-started/installation`
+- Default locale fallback: `/getting-started/installation` (redirects to English)
+
+## ⚡ Built with
+
+This starter comes pre-configured with:
+
+- [Nuxt 4](https://nuxt.com) - The web framework
+- [Nuxt Content](https://content.nuxt.com/) - File-based CMS
+- [Nuxt i18n](https://i18n.nuxt.com/) - Internationalization
+- [Nuxt UI](https://ui.nuxt.com) - UI components
+- [Nuxt Image](https://image.nuxt.com/) - Optimized images
+- [Tailwind CSS 4](https://tailwindcss.com/) - Utility-first CSS
+- [Docus Layer](https://www.npmjs.com/package/docus) - Documentation theme
+
+## 📖 Documentation
+
+For detailed documentation on customizing your Docus project, visit the [Docus Documentation](https://docus.dev)
+
+### 🤖 AI Assistant Skill
+
+Get started quickly with Docus by adding specialized knowledge to your AI assistant (Cursor, Claude, etc.):
+
+```bash
+npx skills add nuxt-content/docus
+```
+
+This skill helps you create documentation faster by providing your AI assistant with best practices, MDC component usage, ready-to-use templates, writing guidelines, and configuration tips for Docus. Perfect for quickly scaffolding new documentation projects.
+
+## 🚀 Deployment
+
+Build for production:
+
+```bash
+npm run build
+```
+
+The built files will be in the `.output` directory, ready for deployment to any hosting provider that supports Node.js.
+
+## 📄 License
+
+[MIT License](https://opensource.org/licenses/MIT) 

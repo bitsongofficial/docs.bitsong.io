@@ -1,0 +1,11 @@
+---
+title: Wallet
+description: Guides for creating and managing your BitSong wallet
+navigation:
+  icon: i-heroicons-wallet
+seo:
+  title: Wallet
+  description: Guides for creating and managing your BitSong wallet
+---
+
+# Wallet

@@ -1,0 +1,11 @@
+---
+title: Staking
+description: Guides for staking your BTSG tokens
+navigation:
+  icon: i-heroicons-lock-closed
+seo:
+  title: Staking
+  description: Guides for staking your BTSG tokens
+---
+
+# Staking

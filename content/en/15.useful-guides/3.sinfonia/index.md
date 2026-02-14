@@ -1,0 +1,11 @@
+---
+title: Sinfonia
+description: Guides for using the Sinfonia fan token platform
+navigation:
+  icon: i-heroicons-musical-note
+seo:
+  title: Sinfonia
+  description: Guides for using the Sinfonia fan token platform
+---
+
+# Sinfonia
