@@ -19,13 +19,13 @@ export default defineContentConfig({
       },
       schema: docsSchema,
     }),
-    docs_fr: defineCollection({
-      type: 'page',
-      source: {
-        include: 'fr/**/*',
-        prefix: '/fr',
-      },
-      schema: docsSchema,
-    }),
+    // docs_fr: defineCollection({
+    //   type: 'page',
+    //   source: {
+    //     include: 'fr/**/*',
+    //     prefix: '/fr',
+    //   },
+    //   schema: docsSchema,
+    // }),
   },
 })

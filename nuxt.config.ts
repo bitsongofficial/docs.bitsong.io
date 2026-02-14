@@ -1,13 +1,12 @@
 import { defineNuxtModule, extendPages } from '@nuxt/kit'
 
 export default defineNuxtConfig({
+  css: ['~/assets/main.css'],
+  
   modules: [
     '@nuxtjs/i18n',
     '@nuxt/icon',
     '@nuxt/fonts',
-    // Inline module to remove Docus's landing route.
-    // Must be a module (not a config hook) so it runs AFTER
-    // Docus's routing module has added the lang-index route.
     defineNuxtModule({
       meta: { name: 'fix-landing-route' },
       setup() {
